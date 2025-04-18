@@ -11,11 +11,9 @@ Airplane-Detector-using-YOLOv11-Test/ ├── config.yaml # Dataset configurat
 2. Create and Activate a Virtual Environment
    python -m venv venv
 venv\Scripts\activate         # On Windows
-# source venv/bin/activate   # On Linux/macOS
 
 3. Install Dependencies
 pip install -r requirements.txt
-
 
 🛠️ Dataset Configuration (config.yaml)
 path: C:/OIDv4_ToolKit/OID/Dataset  # Root directory of your dataset
