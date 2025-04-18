@@ -30,5 +30,12 @@ val: images/train/                  # relative to 'path'
 names:
   0: airplane
 
+📦 Dependencies (requirements.txt)
+ultralytics
+pillow
+
+Install them with:
+pip install -r requirements.txt
+
 
 
